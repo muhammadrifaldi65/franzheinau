@@ -1,7 +1,3 @@
-
-
-
-
 ###
 
 <div align="left">
@@ -25,6 +21,20 @@
 
 <br clear="both">
 
+###
 
+## Sela
+
+<div align="center">
+  <img width="800" alt="Tampilan Sela 1" src="https://github.com/user-attachments/assets/be06f71d-bb95-4e7b-85f9-670c6f7f17b1" />
+  <br><br>
+  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/9adb225e-f00a-48eb-a287-94426365dbed" />
+</div>
+
+<p align="center">
+  <a href="https://selamusicplayernoadds.vercel.app/" target="_blank"><b>Download Sela untuk Windows</b></a>
+  <br>
+  <a href="https://selamusicplayernoadds.vercel.app/" target="_blank">https://selamusicplayernoadds.vercel.app/</a>
+</p>
 
 ###
