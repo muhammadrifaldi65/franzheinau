@@ -36,7 +36,7 @@
   <br><br>
   <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/ab86698c-5435-4ac5-9b9f-8d396fcf1c83" />
   <br><br>
-  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/f4117f37-a8b6-4a4b-9c8c-dcea9c2fb4d5"/>
+  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/b0eeda18-5ac1-4b17-88f7-cef459ca9d02"/>
 </div>
 
 ###
