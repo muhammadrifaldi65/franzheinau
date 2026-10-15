@@ -26,7 +26,7 @@
 ## Sela
 
 <p align="center">
-  <a href="https://selamusicplayernoadds.vercel.app/" target="_blank">
+  <a href="https://selamusic.rifaldi.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/%E2%AC%87%20DOWNLOAD%20DISINI-1084d0?style=for-the-badge&labelColor=000080" alt="DOWNLOAD DISINI" height="48" />
   </a>
 </p>
