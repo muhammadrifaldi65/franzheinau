@@ -32,11 +32,11 @@
 </p>
 
 <div align="center">
-  <img width="800" alt="Tampilan Sela 1" src="https://github.com/user-attachments/assets/933d5e1b-f128-481b-8067-471e305aeac0" />
+  <img width="800" alt="Tampilan Sela 1" src="https://github.com/user-attachments/assets/73798a40-975e-4a1d-8b33-7ed52f1e97ab" />
   <br><br>
-  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/ab86698c-5435-4ac5-9b9f-8d396fcf1c83" />
+  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/b4a11ed3-a6b7-485d-9d07-8c9b6393c189" />
   <br><br>
-  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/b0eeda18-5ac1-4b17-88f7-cef459ca9d02"/>
+  <img width="800" alt="Tampilan Sela 2" src="https://github.com/user-attachments/assets/0e3fc84a-e5ca-4529-95c0-3a79819dc661"/>
 </div>
 
 ###
